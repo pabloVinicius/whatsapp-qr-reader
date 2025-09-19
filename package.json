@@ -4,7 +4,7 @@
   "description": "A simple app to parse documents and return Pix QrCode content",
   "main": "src/server.js",
   "author": "Pablo Cruz <vinicius.pablo.18@gmail.com>",
-  "license": "MIT",
+  "license": "GNU",
   "scripts": {
     "dev": "nodemon --require tsconfig-paths/register --exec ts-node src/server.ts"
   },
